@@ -1,2 +1,2 @@
 # gender-classification
-This program classifies your gender as male or female given an input set of body metrics. The decision the tree method from scikit-learn was used as the model to build the prediction. A small sample data set was used to train the tree. 
+The code uses the scikit-learn machine learning library to train a decision tree on a small dataset of body metrics (height, width, and shoe size) labeled male or female. Then we can predict the gender of someone given a novel set of body metrics.
